@@ -6,4 +6,7 @@ Using React, Node.js, Express & MongoDB this "untitled" project is a MVP for a w
 
 A demo of the application is hosted here:
 
+The project kanban can be viewed here:
+https://trello.com/b/P4qVxGbw/mernapp
+
 Special thanks to JavaScript Mastery on youtube for his JS tutorials.
